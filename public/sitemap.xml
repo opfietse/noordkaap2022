@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://noordkaap2022.onrender.com/</loc>
-    <lastmod>2022-03-12T09:59:20+01:00</lastmod>
-  </url><url>
-    <loc>https://noordkaap2022.onrender.com/posts/my-first-post/</loc>
-    <lastmod>2022-03-12T09:59:20+01:00</lastmod>
-  </url><url>
-    <loc>https://noordkaap2022.onrender.com/posts/</loc>
-    <lastmod>2022-03-12T09:59:20+01:00</lastmod>
-  </url><url>
-    <loc>https://noordkaap2022.onrender.com/categories/</loc>
-  </url><url>
-    <loc>https://noordkaap2022.onrender.com/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://noordkaap2022.onrender.com/nl/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://noordkaap2022.onrender.com/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>

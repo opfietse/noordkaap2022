@@ -1,0 +1,14 @@
+baseURL: 'https://noordkaap2022.onrender.com/'
+languageCode: 'nl-nl'
+title: 'Noordkaap 2022'
+theme: "ananke"
+defaultContentLang: nl
+languages:
+  nl:
+    contentDir: content/nl
+    languageName: Nederlands
+    weight: 1
+  en:
+    contentDir: content/en
+    languageName: English
+    weight: 2
