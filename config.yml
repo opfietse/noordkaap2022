@@ -7,8 +7,10 @@ languages:
   nl:
     contentDir: content/nl
     languageName: Nederlands
+    title: Noordkaap 2022
     weight: 1
   en:
     contentDir: content/en
     languageName: English
+    title: North Cape 2022
     weight: 2
