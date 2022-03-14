@@ -1,0 +1,22 @@
+[pageNotExists]
+  other = "Die pagina kan ik niet vinden!"
+[home]
+  other = "Home"
+[newerPosts]
+  other = "Nieuwere posts"
+[olderPosts]
+  other = "Oudere posts"
+[pageOf]
+  other = "Page {{ .PageNumber }} of {{ .TotalPages }}"
+[postedOn]
+  other = "Gepost op"
+[readMore]
+  other = "Lees meer"
+[contactMe]
+  other = "Contact me"
+[dateTimeFormat]
+  other = "Jan 2, 2006 om 15:04"
+[dateFormat]
+  other = "Jan 2, 2006"
+[allTags]
+  other = "Alle tags"

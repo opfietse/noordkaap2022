@@ -1,7 +1,7 @@
-baseurl = 'https://noordkaap2022.onrender.com/'
-defaultContentLanguage = "en"
+baseurl = "http://your-site.com"
+defaultContentLanguage = "nl"
 defaultContentLanguageInSubdir = "true"
-title = "Your site title"
+title = "Noordkaap 2022"
 theme = "hamburg"
 
 [params]
@@ -16,24 +16,27 @@ theme = "hamburg"
 	mainSections = ["posts"]
 
 [languages]
+    [languages.nl]
+        languageCode = "nl"
+        languageName = "Nederlands"
+        #contentDir="content/nl"
+        subtitle = "Motorreis naar de Noordkaap"
+        copyright = "&copy; www.opfietse.net"
+        [languages.nl.menu]
+            [[languages.nl.menu.main]]
+                name = "Over"
+                identifier = "about"
+                url = "pages/about"
     [languages.en]
         languageCode = "en"
         languageName = "English"
-        subtitle = "A simple subtitle"
-        # Copyright notice. This is displayer in the footer.
-        copyright = "&copy; some license"
+        #contentDir="content/en"
+        title = "North Cape 2022"
+        subtitle = "Motorcycle journey to the North Cape"
+        # Copyright notice. This is displayed in the footer.
+        copyright = "&copy; www.opfietse.net"
         [languages.en.menu]
             [[languages.en.menu.main]]
                 name = "About"
-                identifier = "about"
-                url = "pages/about"
-    [languages.de]
-        languageCode = "de"
-        languageName = "Deutsch"
-        subtitle = "Ein einfacher Untertitel"
-        copyright = "&copy; eine Lizenz"
-        [languages.de.menu]
-            [[languages.de.menu.main]]
-                name = "Über"
                 identifier = "about"
                 url = "pages/about"
