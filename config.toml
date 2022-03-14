@@ -1,4 +1,4 @@
-baseurl = "https://noordkaap2022.onrender.com"
+baseurl = "https://noordkaap2022.onrender.com/"
 defaultContentLanguage = "nl"
 defaultContentLanguageInSubdir = "true"
 title = "Noordkaap 2022"
@@ -8,7 +8,7 @@ theme = "hamburg"
     # Short subtitle/tagline. This is displayed in the header.
     themecolor = "#hexcolor" # Defines the tab color in Chrome for Android.
     # To load additional CSS styles
-    customCSS = ['hamburg.css']
+    #customCSS = ['hamburg.css']
     # Show this very user-friendly and absolutely not annoying GDPR notice at the bottom of the page
     ShowGDPRNotice = true
 	subtitle = "The great example site of the hugo-hamburg-theme"
