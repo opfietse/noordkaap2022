@@ -11,9 +11,9 @@ theme = "hamburg"
     #customCSS = ['hamburg.css']
     # Show this very user-friendly and absolutely not annoying GDPR notice at the bottom of the page
     ShowGDPRNotice = true
-	subtitle = "The great example site of the hugo-hamburg-theme"
+    subtitle = "Motorreis naar de Noordkaap"
 	# Since 0.57.0 there's the concept of "main sections". The files for the section "posts" are in "./content/posts/".
-	mainSections = ["posts"]
+    mainSections = ["posts"]
 
 [languages]
     [languages.nl]

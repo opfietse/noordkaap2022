@@ -13,10 +13,10 @@
 [readMore]
   other = "Lees meer"
 [contactMe]
-  other = "Contact me"
+  other = "Neem contact op"
 [dateTimeFormat]
-  other = "Jan 2, 2006 om 15:04"
+  other = "02-02-2006 om 15:04"
 [dateFormat]
-  other = "Jan 2, 2006"
+  other = "02-01-2006"
 [allTags]
   other = "Alle tags"
