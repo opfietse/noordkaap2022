@@ -1,7 +1,7 @@
 ---
 title: "Geplande route"
 date: 2022-03-18T09:46:14+01:00
-draft: true
+draft: false
 ---
 
 ### Geplande route:
