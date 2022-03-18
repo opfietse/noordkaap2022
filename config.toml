@@ -27,10 +27,14 @@ theme = "hamburg"
                 name = "Over"
                 identifier = "about"
                 url = "pages/about"
-                [[languages.nl.menu.main]]
+            [[languages.nl.menu.main]]
                 name = "Route"
                 identifier = "route"
                 url = "route/expected-route"
+            [[languages.nl.menu.main]]
+                name = "Posts"
+                identifier = "posts"
+                url = "posts"
     [languages.en]
         languageCode = "en"
         languageName = "English"
@@ -48,3 +52,7 @@ theme = "hamburg"
                 name = "Route"
                 identifier = "route"
                 url = "route/expected-route"
+            [[languages.en.menu.main]]
+                name = "Posts"
+                identifier = "posts"
+                url = "posts"
