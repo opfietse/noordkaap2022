@@ -30,7 +30,7 @@ theme = "hamburg"
             [[languages.nl.menu.main]]
                 name = "Route"
                 identifier = "route"
-                url = "route/expected-route"
+                url = "route/planned-route"
             [[languages.nl.menu.main]]
                 name = "Posts"
                 identifier = "posts"
@@ -51,7 +51,7 @@ theme = "hamburg"
             [[languages.en.menu.main]]
                 name = "Route"
                 identifier = "route"
-                url = "route/expected-route"
+                url = "route/planned-route"
             [[languages.en.menu.main]]
                 name = "Posts"
                 identifier = "posts"

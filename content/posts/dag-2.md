@@ -1,10 +1,11 @@
 ---
 title: "Dag 2"
 date: 2022-03-14T17:23:58+01:00
-draft: true
+draft: false
+summary: "Zweden"
 ---
 ## Dag 2
 
-De hele dag in Zweden.
-![MuZ Skorpion Replica](/images/wolkfries.jpg "WOlkje")
+Rijden door Zweden.
+![MuZ Skorpion Replica](/images/wolkfries.jpg "Wolkje")
 
