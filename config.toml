@@ -4,6 +4,11 @@ defaultContentLanguageInSubdir = "true"
 title = "Noordkaap 2022"
 theme = "hamburg"
 
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+
 [params]
     # Short subtitle/tagline. This is displayed in the header.
     themecolor = "#hexcolor" # Defines the tab color in Chrome for Android.

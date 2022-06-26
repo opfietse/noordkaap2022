@@ -1,8 +1,14 @@
 ---
 title: "Day 1"
-date: 2022-03-14T18:11:56+01:00
+date: 2022-06-17T18:11:56+01:00
 draft: false
-summary: "The start"
+summary: "Assen (NL) - Klippan (S)"
 ---
 
-On day 1 ...
+## Day 1, Assen-Klippan, 761 km, total 761 km
+The start of the journey. Mainly on the German Autobahn. It was very busy and there were traffic jams. I just made it
+on time to the ferry in Puttgarden. Seeing it from the bright side: I didn't have to wait for the ferry.
+![Overtoch Puttgarden-Rødby](/images/noordkaap2022-06-16-01-puttgarden-r.jpg "Puttgarden-Rødby")
+Apart from a small traffic jam near Copenhagen the ride to 'The Bridge' went pretty smooth.
+In Sweden it wasn't so busy on the road. I found a campsite in Klippan to put up my tent.
+![Camping Klippan](/images/noordkaap2022-06-16-02-klippan-r.jpg "Puttgarden-Rødby")

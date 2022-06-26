@@ -17,3 +17,5 @@ Voor de reis terug langs de Noorse kust heb ik 10 dagen gereserveerd. Dan komen 
 waarvoor de meeste mensen naar Noorwegen op vakantie gaan.
 Gelukkig voor mij is er tegen die tijd een veerdienst die rechtstreeks tussen Kristiansand (N) en Eemshaven (NL) vaart.
 Voor de terugreis heb ik die geboekt, dat scheelt weer een 1000 ofzo saaie snelwegkilometers.
+
+<a href="https://www.opfietse.net/" target="_blank">Mijn website link</a>
