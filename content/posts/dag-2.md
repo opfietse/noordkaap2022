@@ -1,10 +1,10 @@
 ---
-title: "Dag 2"
-date: 2022-06-17T23:23:58+01:00
+title: "Dag 2, Klippan (S) - Bergsjö (S)"
+date: 2022-06-17T23:12:12+01:00
 draft: false
 summary: "Klippan (S) - Bergsjö (S)"
 ---
-## Dag 2, Klippan-Bergsjö, 866 km, totaal 1627 km
+## Dag 2, 17 juni 2022 Klippan (S) - Bergsjö (S), 866 km, totaal 1627 km
 
 Ik ben al voor de wekker wakker en het afbreken en inpakken gaat best vlot. Rond 8.15 uur zit ik op de motor,
 terug naar de snelweg. Vandaag staat in het teken van de Zweedse snelweg. Het is hier gelukkig veel rustiger dan in Duitsland
