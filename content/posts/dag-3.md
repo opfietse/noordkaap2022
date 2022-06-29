@@ -2,6 +2,7 @@
 title: "Dag 3, Bergsjö (S) - Sandviken (S)"
 date: 2022-06-18T18:47:29+02:00
 draft: false
+summary: "Regenachtige dag, nog steeds de E4 in Zweden richting noorden volgen"
 ---
 ## Dag 3, 18 juni 2022, Bergsjö (S) - Sandviken (S), 701 km, total 2329 km
 

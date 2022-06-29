@@ -2,7 +2,7 @@
 title: "Dag 1, Assen (NL) - Klippan (S)"
 date: 2022-06-17T17:21:56+01:00
 draft: false
-summary: "Assen (NL) - Klippan (S)"
+summary: "Snelweg door Nederland, Duitsland, Denemarken en een stukje Zweden"
 ---
 
 ## Dag 1, 16 juni 2022, Assen (NL) - Klippan (S), 761 km, totaal 761 km
