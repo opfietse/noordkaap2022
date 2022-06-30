@@ -2,9 +2,9 @@
 title: "Dag 4, Sandviken (S) - Sevettijärvi (FIN)"
 date: 2022-06-19T22:42:38+02:00
 draft: false
-summary: "De weg naar het noorden vervolgen, door Finland tot boven de poolcirkel"
+summary: "De weg naar het noorden vervolgen, door Finland, tot boven de poolcirkel"
 ---
-## Dag 4, 19 juni, Sandviken - Sevettijärvi, 606 km, totaal 2935 km
+## Dag 4, 19 juni 2022, Sandviken (S) - Sevettijärvi (FIN), 606 km, totaal 2935 km
 Ik ben vandaag al vrij snel in Finland maar als ik de tijd op de Garmin zie verbaas ik mij erover dat het
 al later is dan ik dacht … pas veel later realiseer ik mij dat ie waarschijnlijk is overgeschakeld naar
 de plaatselijke tijd. Dat uur krijg ik dan de volgende dag wel weer terug. Op de poolcirkel bij Rovaniemi zie ik

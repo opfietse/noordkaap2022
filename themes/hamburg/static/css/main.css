@@ -8,6 +8,7 @@ main {
 .global-header {
     background-size: cover;
     background-position-x: center;
+    background-position-y: bottom;
     min-height: 350px;
 }
 
