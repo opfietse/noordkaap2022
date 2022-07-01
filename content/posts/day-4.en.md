@@ -2,6 +2,7 @@
 title: "Day 4, Sandviken (S) - Sevettijärvi (FIN)"
 date: 2022-06-19T22:42:38+02:00
 draft: false
+summry: "Still ride north, through Finland till obove the Arctic Cirlce"
 ---
 ## Day 4, June 19th 2022, Sandviken (S) - Sevettijärvi (FIN), 606 km, total 2935 km
 Today I am entering Finland pretty soon but as I look at the Garmin I am surprised to see that it is already quite late\... only

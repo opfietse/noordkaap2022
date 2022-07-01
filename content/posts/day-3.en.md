@@ -1,6 +1,6 @@
 ---
 title: "Day 3, Bergsjö (S) - Sandviken (S)"
-date: 2022-06-26T21:47:29+02:00
+date: 2022-06-18T21:47:29+02:00
 draft: false
 summary: "A rainy day, still following the E4 through Sweden"
 ---

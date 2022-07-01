@@ -2,6 +2,7 @@
 title: "Day 6, Honnigsvåg (N) - Altafjord (N)"
 date: 2022-06-21T20:30:44+02:00
 draft: false
+summary: "The North Cape! Start of the way back"
 ---
 ## Day 6, June 21st, Honnigsvåg (N) - Altafjord (N), 333 km, total 3989 km
 At 2 o ‘clock the alarm wakes me and I put on my motorcycle gear.

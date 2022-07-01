@@ -2,6 +2,7 @@
 title: "Dag 6, Honnigsvåg (N) - Altafjord (N)"
 date: 2022-06-21T20:30:44+02:00
 draft: false
+summary: "De noordkaap! Begin van de terugweg"
 ---
 ## Dag 6, 21 juni, Honnigsvåg (N) - Altafjord (N), 333 km, totaal 3989 km
 Om 2 uur gaat de wekker en doe ik mijn motorkleding aan. De motor had ik aan het begin van de camping geparkeerd

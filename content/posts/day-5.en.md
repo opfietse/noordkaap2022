@@ -2,6 +2,7 @@
 title: "Day 5, Sevettijärvi (FIN) - Honnigsvåg (N)"
 date: 2022-06-20T21:58:23+02:00
 draft: false
+summary: "Grense Jacobselv, Ifjord, Honningsvåg"
 ---
 ## Day 5, June 20th 2022, Sevettijärvi (FIN) - Honnigsvåg (N), 719 km, total 3655 km
 Early rising again, today it goes into Norway. That isn’t very far from where I am but I want to make
