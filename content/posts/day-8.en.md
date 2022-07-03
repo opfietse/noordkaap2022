@@ -4,7 +4,7 @@ date: 2022-06-23T20:42:28+02:00
 draft: false
 summary: "Explore Senja and continue south to/over the E6"
 ---
-## Day 8, June 23rd, Finnjorda (N) - Innhavet (N), 463 km, totaal 4887 km
+## Day 8, June 23rd, Finnjorda (N) - Innhavet (N), 463 km, total 4887 km
 Today I start with exploring Senja a bit, first to Gryllefjord.
 
 ![Senja](/images/noordkaap2022-06-23-01-senja-r.jpg "Senja")
