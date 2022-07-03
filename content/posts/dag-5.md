@@ -18,7 +18,7 @@ Tot aan de laatste bocht dacht ik het meeviel\... maar ze stonden er toch echt!
 ![Grense Jacobslev](/images/noordkaap2022-06-20-02-grensejacobselv-r.jpg "Grense Jacobslev")
 ![Grense Jacobslev](/images/noordkaap2022-06-20-03-grensejacobselv-r.jpg "Grense Jacobslev")
 ![Grense Jacobslev](/images/noordkaap2022-06-20-04-grensejacobselv-r.jpg "Grense Jacobslev")
-![Kerk Oskar II](/images/noordkaap2022-06-20-05-kerk-oscar-ii-r.jpg "Kerk Oskar II")
+![Kapel Oscar II](/images/noordkaap2022-06-20-05-kerk-oscar-ii-r.jpg "Kapel Oscar II")
 
 Na de gebruikelijke foto’s en een praatje met een paar Duitse motorrijders die daar hadden overnacht
 gaat de reis nu richting westen. Ik wist niet precies hoever ik in de richting van de Noordkaap zou komen

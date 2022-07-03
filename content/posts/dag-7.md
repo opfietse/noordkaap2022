@@ -1,10 +1,10 @@
 ---
-title: "Dag 7, Altafjord (N) - Leirsted (N)"
+title: "Dag 7, Altafjord (N) - Finnjorda (N)"
 date: 2022-06-22T09:47:58+02:00
 draft: false
 summary: "Via Tromsø naar het eiland Senja"
 ---
-## Dag 7, 22 juni 2022, Altafjord (N) - Leirsted (N), 434 km, totaal 4423 km
+## Dag 7, 22 juni 2022, Altafjord (N) - Finnjorda (N), 434 km, totaal 4423 km
 Ik vertrek weer met regen, gelukkig wordt het na een tijdje droog. Af en toe zie ik bergen met wat ronde
 vormen, het lijkt wel of ze mooi zijn gepolijst, waarschijnlijk door de eeuwen heen zo gesleten. En er ligt
 ook nog volop sneeuw op. De weg loopt ook langs florden waarvan het droogevallen deel vol ligt met
@@ -22,6 +22,6 @@ voor die vertrekt naar Botnhamn op het eiland Senja.
 
 Helaas gaat de geplande route op Senja niet door vanwege
 een wegafsluiting die nog 5 maanden gaat duren! Dan eerst maar op zoek naar een camping. Ik kom
-uit bij het Skogshus in Leirsted en zet daar de tent op.
+uit bij het Skoghus in Finnjorda en zet daar de tent op.
 
-![Camping Leirsted](/images/noordkaap2022-06-22-05-skogshus-r.jpg "Camping Leirsted")
+![Camping Finnjorda](/images/noordkaap2022-06-22-05-skogshus-r.jpg "Camping Finnjorda")

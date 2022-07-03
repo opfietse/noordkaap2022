@@ -18,7 +18,7 @@ Up until the last bend I thought they wouldn’t be there\... but there they wer
 ![Grense Jacobslev](/images/noordkaap2022-06-20-02-grensejacobselv-r.jpg "Grense Jacobslev")
 ![Grense Jacobslev](/images/noordkaap2022-06-20-03-grensejacobselv-r.jpg "Grense Jacobslev")
 ![Grense Jacobslev](/images/noordkaap2022-06-20-04-grensejacobselv-r.jpg "Grense Jacobslev")
-![Church Oskar II](/images/noordkaap2022-06-20-05-kerk-oscar-ii-r.jpg "Church Oskar II")
+![Chapel Oscar II](/images/noordkaap2022-06-20-05-kerk-oscar-ii-r.jpg "Chapel Oscar II")
 
 After taking the usual pictures and talking to some German bikers that spent the night there I headed
 west. I didn’t ’t know how far I would get in the direction of the North Cape but my plan was to be there
