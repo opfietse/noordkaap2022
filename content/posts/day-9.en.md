@@ -1,6 +1,6 @@
 ---
 title: "Day 9, Innhavet (N) - Tosbotn (N)"
-date: 2022-07-03T16:14:35+02:00
+date: 2022-06-24T21:14:35+02:00
 draft: false
 summary: "Further south via E6, pass the Arctic circle again"
 ---
