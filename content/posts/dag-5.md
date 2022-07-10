@@ -24,7 +24,8 @@ Na de gebruikelijke foto’s en een praatje met een paar Duitse motorrijders die
 gaat de reis nu richting westen. Ik wist niet precies hoever ik in de richting van de Noordkaap zou komen
 maar had al wel het plan om ’s morgens heel vroeg er te zijn. Volgens de Garmin zou ik er om een uur of
 negen ’s avonds kunnen zijn\... dat deed mij besluiten maar door te rijden tot de Nordkapp Camping in Honnigsvåg,
-zo’n 25 km van de Noordkaap. Snel de tent opgezet, de wekker op 2 uur gezet en gaan slapen.
+zo’n 25 km van de Noordkaap. De route gaat over de FV98 langs Tana, Ifjord en Lakselv, daar dan de E6 op en later
+de E69. In Honnigsvåg snel de tent opgezet, de wekker op 2 uur gezet en gaan slapen.
 ![Sneeuw](/images/noordkaap2022-06-20-06-sneeuw-r.jpg "Sneeuw")
 ![Wolken](/images/noordkaap2022-06-20-07-wolk-2-r.jpg "Wolken")
 ![Ik ben er bijna](/images/noordkaap2022-06-20-08-bijna-r.jpg "Ik ben er bijna")

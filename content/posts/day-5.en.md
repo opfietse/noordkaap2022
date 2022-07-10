@@ -24,7 +24,7 @@ After taking the usual pictures and talking to some German bikers that spent the
 west. I didn’t ’t know how far I would get in the direction of the North Cape but my plan was to be there
 Very early in the morning. According to the Garmin I should be able to be there around 9 pm, that
 Made made decide to go for it and camp at Nordcapp Camping in Honnigsvåg, about 25 km from the North Cape.
-I quickly put up the tent, set the alarm at 2 am en went to sleep.
+I take the FV98, E6 and E69 to Honnigsvåg. I quickly put up the tent, set the alarm at 2 am and go to sleep.
 
 ![Snow](/images/noordkaap2022-06-20-06-sneeuw-r.jpg "Snow")
 ![Clouds](/images/noordkaap2022-06-20-07-wolk-2-r.jpg "Clouds")
