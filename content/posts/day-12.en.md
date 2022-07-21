@@ -4,8 +4,7 @@ date: 2022-06-27T21:55:56+02:00
 draft: false
 summary: "Trollstigen, Geiranger, Sognefjellet, Aurlandsfjellet"
 ---
-## Dag 12, June 27th 2022, Åndalsnes (N) - Flåm (N)
-415 km, total 6797
+## Dag 12, June 27th 2022, Åndalsnes (N) - Flåm (N), 415 km, total 6797 km
 Today started with the Trollstigen again, it was very quiet there.
 
 ![Trollstigen](/images/noordkaap2022-06-27-01-trollstigen-r.jpg "Trollstigen")
