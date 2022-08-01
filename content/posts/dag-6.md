@@ -42,3 +42,4 @@ Altafjord en huur daar een ‘luxe’ hut (eigen douche!). De rest van de avond 
 ![Russenes](/images/noordkaap2022-06-21-06-russenes-r.jpg "Russenes")
 ![Alta](/images/noordkaap2022-06-21-07-alta-r.jpg "Alta")
 ![Altafjord](/images/noordkaap2022-06-21-08-altafjord-r.jpg "Altafjord")
+![Route](/images/kaart-dag-06.jpg "Route")

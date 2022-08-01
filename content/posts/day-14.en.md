@@ -21,3 +21,4 @@ A little bit further road 42 in the direction of Evje was very nice to ride.
 I found a campsite near Høvåg.
 
 ![Camping Høvåg](/images/noordkaap2022-06-29-05-hovag-r.jpg "Camping Høvåg")
+![Route](/images/kaart-dag-14.jpg "Route")

@@ -23,3 +23,4 @@ Er zat zelfs een sauna in! En het lag aan een meertje. Wat is er Finser dan zo v
 koelen in het meer?
 ![Fins huisje](/images/noordkaap2022-06-19-03-huisje-r.jpg "Fins huisje")
 ![Meer in Finland](/images/noordkaap2022-06-19-02-r.jpg "Meer in Finland")
+![Route](/images/kaart-dag-04.jpg "Route")

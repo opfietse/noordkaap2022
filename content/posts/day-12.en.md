@@ -40,3 +40,4 @@ good tip, it was a beautiful road.
 ![Aurlandsfjellet](/images/noordkaap2022-06-27-10-aurlandsfjellet-r.jpg "Aurlandsfjellet")
 
 I looked for a place to stay in Flåm, I got a room in a hostel, not something I am used to but it was okay.
+![Route](/images/kaart-dag-12.jpg "Route")

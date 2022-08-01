@@ -20,4 +20,4 @@ Verderop was weg nr 42 richting Evje ook geweldig mooi om te rijden.
 In de buurt van Høvåg heb ik een camping gevonden.
 
 ![Camping Høvåg](/images/noordkaap2022-06-29-05-hovag-r.jpg "Camping Høvåg")
-
+![Route](/images/kaart-dag-14.jpg "Route")

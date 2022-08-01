@@ -29,3 +29,4 @@ de E69. In Honnigsvåg snel de tent opgezet, de wekker op 2 uur gezet en gaan sl
 ![Sneeuw](/images/noordkaap2022-06-20-06-sneeuw-r.jpg "Sneeuw")
 ![Wolken](/images/noordkaap2022-06-20-07-wolk-2-r.jpg "Wolken")
 ![Ik ben er bijna](/images/noordkaap2022-06-20-08-bijna-r.jpg "Ik ben er bijna")
+![Route](/images/kaart-dag-05.jpg "Route")

@@ -30,3 +30,4 @@ alert: die ramp is gedramatiseerd in seizoen 2 van de TV-serie "State of Happine
 Even buiten Stavanger vind ik een camping in de duinen van Ølberg.
 
 ![Camping Ølberg](/images/noordkaap2022-06-28-08-olberg-r.jpg "Camping Ølberg")
+![Route](/images/kaart-dag-13.jpg "Route")

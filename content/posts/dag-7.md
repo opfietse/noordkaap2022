@@ -25,3 +25,4 @@ een wegafsluiting die nog 5 maanden gaat duren! Dan eerst maar op zoek naar een 
 uit bij het Skoghus in Finnjorda en zet daar de tent op.
 
 ![Camping Finnjorda](/images/noordkaap2022-06-22-05-skogshus-r.jpg "Camping Finnjorda")
+![Route](/images/kaart-dag-07.jpg "Route")

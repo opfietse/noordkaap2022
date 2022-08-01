@@ -43,3 +43,4 @@ weg.
 
 In Flåm maar eens  op zoek gegaan naar een camping, ik kwam terecht in een kamer in een hostel,
 ook prima.
+![Route](/images/kaart-dag-12.jpg "Route")

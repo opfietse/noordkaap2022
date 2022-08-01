@@ -11,9 +11,11 @@ summary: "Een regenachtige dag, nog steeds de E4 in Zweden richting noorden volg
 
 De reis gaat verder naar het noorden door Zweden, over de E4 langs de oostkust. Het rijdt lekker door en
 ik stop ergens in de buurt van de Finse grens. Weer een volle camping! Dan maar een stukje
-terug rijden, daar had ik een bordje ‘stuga’ gezien. Ik kom bij een huis van een oud mannetje,
+terug rijden, daar had ik een bordje ‘stuga’ gezien. Ik kom bij het huis van een oud mannetje,
 hij heeft inderdaad een stuga te huur. WC en douche zijn bij hem in huis\... maar ja, je moet
-wat. Het is een oude stuga, maar er is verwarming en er is stroom. Ik kan mooi wat spullen drogen
-want het was bijna de hele dag in de regen rijden.
+wat. Het is een oude stuga, maar er is verwarming en er is elektriciteit. Ik kan mooi wat spullen drogen
+want het was bijna de hele dag in de regen rijden. Een goede test voor pak en laarzen, die hebben het prima
+gehouden. De handschoenen zijn al wat ouder en lekken wel een beetje.
 
 ![Stuga Sandviken](/images/noordkaap2022-06-18-02-stuga-r.jpg "Stuga Sandviken")
+![Route](/images/kaart-dag-03.jpg "Route")

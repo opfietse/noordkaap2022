@@ -23,3 +23,4 @@ gevonden voor de tent. Ook die camping had voornamelijk vaste plaatsen (caravans
 constructies). Blijkbaar zijn er daar veel campings met bijna alleen maar seizoensplekken.
 
 ![Geita camp](/images/noordkaap2022-06-25-06-geita-r.jpg "Geita camp")
+![Route](/images/kaart-dag-10.jpg "Route")

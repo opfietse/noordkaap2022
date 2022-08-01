@@ -36,3 +36,4 @@ the way down on the Trollstigen.
 Time to look for a campsite. I ended up on Sogge bru where I rented a cabin.
 
 ![Campsite Sogge bru](/images/noordkaap2022-06-26-11-andalsnes-r.jpg "Campsite Sogge bru")
+![Route](/images/kaart-dag-11.jpg "Route")

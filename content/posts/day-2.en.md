@@ -25,4 +25,4 @@ staying in the hut was a better option so I opted for that. The campsite was sit
 
 ![Campsite Sagaliden](/images/noordkaap2022-06-17-03-sagaliden-r.jpg "Campsite Sagaliden")
 ![Campsite Sagaliden](/images/noordkaap2022-06-17-04-sagaliden-r.jpg "Campsite Sagaliden")
-
+![Route](/images/kaart-dag-02.jpg "Route")

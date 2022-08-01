@@ -30,3 +30,4 @@ alert: that accident is dramatised in season 2 of the TV-series "State of Happin
 Just outside Stavanger I find a campsite in the dunes of Ølberg.
 
 ![Campsite Ølberg](/images/noordkaap2022-06-28-08-olberg-r.jpg "Campsite Ølberg")
+![Route](/images/kaart-dag-13.jpg "Route")

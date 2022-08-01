@@ -24,4 +24,4 @@ I left the island via Silsand and continued going South.
 Eventually I end up on the E6 and I find a cabin on campsite Notvann in Innhavet.
 
 ![Camping Notvann](/images/noordkaap2022-06-23-07-notvann-r.jpg "Camping Notvann")
-
+![Route](/images/kaart-dag-08.jpg "Route")

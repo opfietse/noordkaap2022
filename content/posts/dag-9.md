@@ -25,3 +25,4 @@ de zon lekker brandt. Gelijk ook maar even de route aangepast zodat ik nog een s
 die schijnt heel mooi te zijn en is zeker mooier dan de E6. We gaan het zien morgen!
 
 ![Camping Tosbotn](/images/noordkaap2022-06-24-06-camping-tosbotn-r.jpg "Camping Tosbotn")
+![Route](/images/kaart-dag-09.jpg "Route")

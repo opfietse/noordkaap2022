@@ -22,3 +22,4 @@ situated at a lake. What is more Finnish than cooling down in a lake right after
 
 ![Finnish house](/images/noordkaap2022-06-19-03-huisje-r.jpg "Finnish house")
 ![Finnish lake](/images/noordkaap2022-06-19-02-r.jpg "Finnish lake")
+![Route](/images/kaart-dag-04.jpg "Route")

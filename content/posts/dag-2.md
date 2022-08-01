@@ -24,4 +24,4 @@ wel in de hut? Dat kon.
 
 ![Camping Sagaliden](/images/noordkaap2022-06-17-03-sagaliden-r.jpg "Camping Sagaliden")
 ![Camping Sagaliden](/images/noordkaap2022-06-17-04-sagaliden-r.jpg "Camping Sagaliden")
-
+![Route](/images/kaart-dag-02.jpg "Route")

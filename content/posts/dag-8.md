@@ -11,7 +11,7 @@ Vandaag eerst een beetje over het eiland Senja gereden. Eerst naar Gryllefjord.
 ![Senja](/images/noordkaap2022-06-23-02-senja-r.jpg "Senja")
 
 Daarna dezelfde weg een stuk terug en afslaan naar Stonglandseidet. Daar kon ik tanken bij een soort mobiele tankinstallatie.
-Het waaide die dag behoorlijk en het was een mooi gezicht om het water op de kust te zien slaan.
+Het waaide die dag behoorlijk hard en het was een mooi gezicht om het water op de kust te zien slaan.
 
 ![Senja](/images/noordkaap2022-06-23-03-senja-r.jpg "Senja")
 ![Senja](/images/noordkaap2022-06-23-04-senja-r.jpg "Senja")
@@ -25,3 +25,4 @@ Uiteindelijk kom ik uit op de E6
 en overnacht ik in een hut op camping Notvann in Innhavet.
 
 ![Camping Notvann](/images/noordkaap2022-06-23-07-notvann-r.jpg "Camping Notvann")
+![Route](/images/kaart-dag-08.jpg "Route")

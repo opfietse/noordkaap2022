@@ -25,3 +25,4 @@ I also change the route so I can ride a part of the RV 17 which is supposed to b
 the E6. We'll check that tomorrow!
 
 ![Camping Tosbotn](/images/noordkaap2022-06-24-06-camping-tosbotn-r.jpg "Camping Tosbotn")
+![Route](/images/kaart-dag-09.jpg "Route")

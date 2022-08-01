@@ -39,3 +39,4 @@ Toen was het wel
 tijd om een camping te zoeken. Ik kwam uit op Sogge bru waar ik een huisje heb genomen.
 
 ![Camping Sogge bru](/images/noordkaap2022-06-26-11-andalsnes-r.jpg "Camping Sogge bru")
+![Route](/images/kaart-dag-11.jpg "Route")

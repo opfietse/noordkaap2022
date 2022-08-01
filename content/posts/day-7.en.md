@@ -22,3 +22,4 @@ Unfortunately the planned route falls apart because a road is closed. Then let's
 first, I find a place at the Skoghus in Finnjorda.
 
 ![Camping Finnjorda](/images/noordkaap2022-06-22-05-skogshus-r.jpg "Camping Finnjorda")
+![Route](/images/kaart-dag-07.jpg "Route")

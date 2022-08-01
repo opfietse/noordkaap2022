@@ -12,8 +12,10 @@ In the morning I take a picture of the lake\... the weather doesn’t look that 
 
 Further north through Sweden, via de E4 along de east coast. I make great progress and stop
 somewhere near the Finnish border. Another campsite that is full! So I head back a little to where
-I saw a sign ’Stuga’. I arrive at the place of an old man that has indeed a stuga for rent. Toilet and
+I saw a sign ’Stuga’. I arrive at the place of an old man who has indeed a stuga for rent. Toilet and
 shower are in his own house\... but hey, that’s okay for now! It is and old stuga but it has
-heating and electricity so drying some stuff is possible. It rained for most of the day today.
+heating and electricity so drying some stuff is possible. It rained for most of the day today. A good
+test for the suit and boots which kept me dry! The gloves are a bitolder and are leaking a bit.
 
 ![Stuga Sandviken](/images/noordkaap2022-06-18-02-stuga-r.jpg "Stuga Sandviken")
+![Route](/images/kaart-dag-03.jpg "Route")

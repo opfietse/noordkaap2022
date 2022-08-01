@@ -22,4 +22,4 @@ the tent. But that campsite also was full of regulars (caravans completly built 
 the area has lots of campsites with mostly regular visitors.
 
 ![Geita camp](/images/noordkaap2022-06-25-06-geita-r.jpg "Geita camp")
-
+![Route](/images/kaart-dag-10.jpg "Route")

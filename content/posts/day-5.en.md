@@ -29,4 +29,4 @@ I take the FV98, E6 and E69 to Honnigsvåg. I quickly put up the tent, set the a
 ![Snow](/images/noordkaap2022-06-20-06-sneeuw-r.jpg "Snow")
 ![Clouds](/images/noordkaap2022-06-20-07-wolk-2-r.jpg "Clouds")
 ![Almost there](/images/noordkaap2022-06-20-08-bijna-r.jpg "Almost there")
-
+![Route](/images/kaart-dag-05.jpg "Route")
