@@ -21,7 +21,14 @@ Tot aan de laatste bocht dacht ik het meeviel\... maar ze stonden er toch echt!
 ![Kapel Oscar II](/images/noordkaap2022-06-20-05-kerk-oscar-ii-r.jpg "Kapel Oscar II")
 
 Na de gebruikelijke foto’s en een praatje met een paar Duitse motorrijders die daar hadden overnacht
-gaat de reis nu richting westen. Ik wist niet precies hoever ik in de richting van de Noordkaap zou komen
+gaat de reis nu richting westen.
+Ik wil de OSCO nog even gebruiken maar zie dat de plunjer helemaal uitgetrokken is en dat de stang krom is.
+Hoe kan dat nou weer? Dat kan bijna niet vanzelf gekomen zijn, maar sabotage zou ook wel erg vreemd zijn.
+In Kirkenes scoor ik bij de Toyota-dealer een stukje krimpkous om de slang van de OSCO beter te repareren,
+de oplossing met ducttape en tie-wraps is niet zo heel goed. Maar nu komt er nog bij dat ik de plunjerstang
+ook nog recht moet zien te krijgen. Maar dat is allemaal van later zorg.
+
+Ik wist niet precies hoever ik in de richting van de Noordkaap zou komen
 maar had al wel het plan om ’s morgens heel vroeg er te zijn. Volgens de Garmin zou ik er om een uur of
 negen ’s avonds kunnen zijn\... dat deed mij besluiten maar door te rijden tot de Nordkapp Camping in Honnigsvåg,
 zo’n 25 km van de Noordkaap. De route gaat over de FV98 langs Tana, Ifjord en Lakselv, daar dan de E6 op en later

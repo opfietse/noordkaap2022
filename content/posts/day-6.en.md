@@ -31,12 +31,15 @@ After riding a bit I see a motorcycle riding at the right most part of the road.
 I saw on the Arctic circle in Finland. I slow down and wave at him. He recognises me and stops. He
 had also been on the North Cape and was on his way back too.
 
+![Russenes](/images/noordkaap2022-06-21-06-russenes-r.jpg "Russenes")
+
 In Alta I go cultural and go see the rock carvings that are between 2000 and 7000 years old. Quite
 Impressive to see. But it rains and I quickly make some photo’s and carry on.
+
+![Alta](/images/noordkaap2022-06-21-07-alta-r.jpg "Alta")
+
 Back on the bike it starts raining harder. I ride on until campsite Altafjord and rent a ‘luxury’ cabin (with shower).
 It rains for the rest of the evening.
 
-![Russenes](/images/noordkaap2022-06-21-06-russenes-r.jpg "Russenes")
-![Alta](/images/noordkaap2022-06-21-07-alta-r.jpg "Alta")
 ![Altafjord](/images/noordkaap2022-06-21-08-altafjord-r.jpg "Altafjord")
 ![Route](/images/kaart-dag-06.jpg "Route")

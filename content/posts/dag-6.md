@@ -34,12 +34,16 @@ onderweg ben zie ik een motor helemaal aan de zijkant van de weg rijden. Het is 
 op de poolcirkel in Finland had gezien. Ik zwaai uitbundig en hij herkent me en stopt. Hij was ook al op de Noordkaap
 geweest en op de terugweg.
 
+![Russenes](/images/noordkaap2022-06-21-06-russenes-r.jpg "Russenes")
+
 Bij Alta ga ik op de culturele toer en ga de rotstekeningen bekijken die zo’n 2000 tot 7000 jaar oud zijn. Best
 indrukwekkend om te zien. Alleen regent het en maak ik haastig wat foto’s om snel weer door te kunnen
-lopen. Als ik weer op de motor zit begint het steeds harder te regenen. Ik rijd door tot camping
+lopen.
+
+![Alta](/images/noordkaap2022-06-21-07-alta-r.jpg "Alta")
+
+Als ik weer op de motor zit begint het steeds harder te regenen. Ik rijd door tot camping
 Altafjord en huur daar een ‘luxe’ hut (eigen douche!). De rest van de avond blijft het regenen.
 
-![Russenes](/images/noordkaap2022-06-21-06-russenes-r.jpg "Russenes")
-![Alta](/images/noordkaap2022-06-21-07-alta-r.jpg "Alta")
 ![Altafjord](/images/noordkaap2022-06-21-08-altafjord-r.jpg "Altafjord")
 ![Route](/images/kaart-dag-06.jpg "Route")
