@@ -38,6 +38,7 @@ On day 10 I took an alternative road to avoid a part of the E6 and do a stretch 
 After Stavanger I made a new route via Lysebotn to a campsite near Kristiansand. The original route went
 from Stavanger to the ferry harbour in Kristiansand but I arrived a couple of days 'early' in Stavnger.
 
+![Ridden route](/images/kaart-all.jpg "Ridden route")
 
 ### A little bit of bad luck
 - Power supply Zumo was failing intermittently

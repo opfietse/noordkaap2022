@@ -49,6 +49,7 @@ Na Stavanger heb ik nog een omweg via Lysebotn gedaan in een route naar een camp
 Kristiansand, de oorspronkelijke route ging van Stavanger naar de haven in Kristiansand maar ik was een
 paar dagen 'te vroeg' in Stavanger.
 
+![Gereden route](/images/kaart-all.jpg "Gereden route")
 
 ### Pechdingetjes
 - Voeding zumo bleef steeds onderbreken
