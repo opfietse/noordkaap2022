@@ -5,7 +5,7 @@ draft: false
 summary: "Snelweg door Nederland, Duitsland, Denemarken en een stukje Zweden"
 ---
 ## Dag 1, 16 juni 2022, Assen (NL) - Klippan (S), 761 km, totaal 761 km
-De start van de reis. Na 5 kilomter heb ik al het eerst probleem, de stroomvoorziening van de Garmin Zumo 660 hapert soms.
+De start van de reis. Na 5 kilomter heb ik al het eerste probleem, de stroomvoorziening van de Garmin Zumo 660 hapert soms.
 De volgende dagen heb ik steeds dat probleem en ben ik de hele tijd bezig op het scherm te drukken om aan te geven
 dat de Zumo aan moet blijven.
 

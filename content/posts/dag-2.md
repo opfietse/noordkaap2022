@@ -19,8 +19,8 @@ werd.
 ![Monster op snelweg](/images/noordkaap2022-06-17-02-snelweg-r.jpg "Snelweg")
 
 En ook de camping was vol, evenals de volgende in de juiste richting. Toen Archies maar weer geraadplaagd en weer naar
-de volgende camping. Die was gelegen aan een mooi meer bij Bergsjö en ze hadden een plekje naast een oude hut. Misschien kon ik dan
-wel in de hut? Dat kon.
+de volgende camping. Dat was Sagaliden, gelegen aan een mooi meer bij Bergsjö en ze hadden een plekje naast een oude hut. Omdat het al laat was
+leek mij een verblijf in de hut zelf een betere optie en gelukkig was dat mogelijk.
 
 ![Camping Sagaliden](/images/noordkaap2022-06-17-03-sagaliden-r.jpg "Camping Sagaliden")
 ![Camping Sagaliden](/images/noordkaap2022-06-17-04-sagaliden-r.jpg "Camping Sagaliden")
