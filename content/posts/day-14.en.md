@@ -4,8 +4,7 @@ date: 2022-06-29T22:30:34+02:00
 draft: false
 summary: "Lysebotn hairpins, very nice road to Evje"
 ---
-Day 14, June 29th 2022, Ølberg (N) - Høvåg (N)
-409 km, total 7625 km
+## Day 14, June 29th 2022, Ølberg (N) - Høvåg (N), 409 km, total 7625 km
 
 Beautiful roads again today. Especially the last part of the road to Lysebotn is very spectactular with
 more than 20 hairpins in a very short distance. If you don't take the ferry you have to go back the same way, which

@@ -4,7 +4,7 @@ date: 2022-06-28T21:11:02+02:00
 draft: false
 summary: "Mooie wegen door het zuid-westelijke deel van Noorwegen richting Stavanger"
 ---
-Dag 13, 28 juni 2022, Flåm (N) - Ølberg (N), 418 km, totaal 7215 km
+## Dag 13, 28 juni 2022, Flåm (N) - Ølberg (N), 418 km, totaal 7215 km
 
 Vandaag eerst naar Voss om de koppeling te laten bijstellen. Dat is gebeurd bij HMV Maskin. Ze hebben
 de vloeistof ververst, de koppeling voelt nu weer wat beter aan.

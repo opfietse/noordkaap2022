@@ -4,8 +4,7 @@ date: 2022-06-29T22:30:34+02:00
 draft: false
 summary: "Lysebotn haarspeldbochten, weg 42 richting Evje"
 ---
-Dag 14, 29 juni 2022, Ølberg (N) - Høvåg (N)
-409 km, totaal 7625 km
+## Dag 14, 29 juni 2022, Ølberg (N) - Høvåg (N), 409 km, totaal 7625 km
 
 Weer prachtige wegen vandaag. Vooral het laatste stuk naar Lysebotn is erg spectaculair met meer dan
 20 hairpins vlak na elkaar. Snel een foto gemaakt en dan moet je dezelfde weg terug (als je niet de boot op gaat).

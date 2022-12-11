@@ -4,7 +4,7 @@ date: 2022-06-28T21:11:02+02:00
 draft: false
 summary: "Beautiful roads in the south western part of Norway towards Stavanger"
 ---
-##Day 13, June 28th 2022, Flåm (N) - Ølberg (N), 418 km, total 7215 km
+## Day 13, June 28th 2022, Flåm (N) - Ølberg (N), 418 km, total 7215 km
 
 Today I continue to Voss to have my clutch adjusted. That took place at HMV Maskin. They replaced
 the clutch fluid and the clutch feels a bit better now.
