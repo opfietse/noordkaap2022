@@ -13,7 +13,7 @@ Bij de eerste tankstop zie ik dat de draagring van de tankstas los zit. Die zit 
 boutje halfvast terwijl dat met 4 zou moeten. Gelukkig kunnen de boutjes er niet uit vallen en zijn ze dus nog aanwezig. 10
 minuten van gereedschap zoeken en de boel vastzetten later ben ik weer op weg.
 
-Bij de tweede tankstop gebruikt ik
+Bij de tweede tankstop gebruikte ik
 de OSCO maar eens \... wacht, de plunjer zakt niet! Wat nou weer? Nou, de slang zat te dicht bij de uitlaat en was
 dichtgesmolten! Hoeveel pech kun je op de eerste dag hebben?
 

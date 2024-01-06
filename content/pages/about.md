@@ -28,7 +28,7 @@ ook alweer teruggekomen.
 
 ### Bagage
 De monster was al voorzien van een bagagerek van Star Twin dus er zou in ieder geval iets meegenomen moeten kunnen.
-Voor de bagage had ik een paar zadeltassen van XL Moto gekocht een een zgn drypack van Kriega. Een waterdichte
+Voor de bagage had ik een paar zadeltassen van XL Moto gekocht en een zgn drypack van Kriega. Een waterdichte
 kanozak van 109 liter van Ortlieb had ik al. Na het bevestigen van de zadeltassen bleek dat die wel wat ver naar binnen
 vielen.
 Bij <a href="https://volaremotoren.nl/" target="_blank">
