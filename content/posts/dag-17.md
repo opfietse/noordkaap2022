@@ -9,7 +9,7 @@ summary: "Eemshaven - Assen"
 kant van de boot is Eemshaven ook al te zien.
 
 ![Borkum](/images/noordkaap2022-07-02-06-borkum-r.jpg "Borkum")
-![Eemshaven](/images/noordkaap2022-07-02-01-eemshaven.jpg "Eemshaven")
+![Eemshaven](/images/noordkaap2022-07-02-01-eemshaven-r.jpg "Eemshaven")
 
 Vandaag via de snelste route van Eemshaven naar Assen gereden. Aangezien bijna iedereen richting de stad Groningen ging reden
 we in een grote groep motoren. Ik zal achter de motorrijders waar ik op de boot een paar biertjes mee had gedronken.
