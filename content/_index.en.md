@@ -17,4 +17,4 @@ and eventually the North Cape.
 For the journey back along Norways coast I reserved another 10 days. By than the fjords will come into sigth and
 as well as the other natura;l beaty Norway as to offer.
 Luckilly for me by the time I am in Norway there will be a new ferry sailing from Kristiansand (N) to Eemshaven (NL).
-I booked this ferry for the return trip, that will safe me a 1000 or so boring motorway kilometres.
+I booked this ferry for the return trip, that will save me a 1000 or so boring motorway kilometres.
